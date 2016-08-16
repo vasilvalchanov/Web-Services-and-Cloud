@@ -1,0 +1,16 @@
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\OnlineShop.Data.dll.config
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\OnlineShop.Data.dll
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\OnlineShop.Data.pdb
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\EntityFramework.dll
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\OnlineShop.Models.dll
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\OnlineShop.Models.pdb
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\EntityFramework.xml
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\obj\Debug\OnlineShop.Data.csprojResolveAssemblyReference.cache
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\obj\Debug\OnlineShop.Data.dll
+D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Data\obj\Debug\OnlineShop.Data.pdb

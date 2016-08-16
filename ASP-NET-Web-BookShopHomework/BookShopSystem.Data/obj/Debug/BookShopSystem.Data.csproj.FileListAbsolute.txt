@@ -1,0 +1,16 @@
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll.config
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.pdb
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\BookShopSystem.Models.dll
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\EntityFramework.dll
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\BookShopSystem.Models.pdb
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\EntityFramework.xml
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.csprojResolveAssemblyReference.cache
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.dll
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.pdb
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\WebServicesAndCloudHomeworks\ASP-NET-Web-BookShopHomework\BookShopSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
