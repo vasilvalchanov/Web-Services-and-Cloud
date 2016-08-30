@@ -11,6 +11,7 @@ namespace OnlineShop.Services.Models.BindingModels
 
     public class CreateAdBindingModel
     {
+        [Required]
         [MinLength(3, ErrorMessage = "The {0} must be at least {2} long")]
         public string Name { get; set; }
 

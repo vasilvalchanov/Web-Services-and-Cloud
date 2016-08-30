@@ -10,35 +10,33 @@ namespace OnlineShop.Services.Controllers
 
     using Microsoft.AspNet.Identity;
 
+    using OnlineShop.Data.Interfaces;
     using OnlineShop.Models;
     using OnlineShop.Services.Models.BindingModels;
     using OnlineShop.Services.Models.ViewModels;
+    using OnlineShop.Tests;
 
     [Authorize]
     public class AdsController : BaseApiController
     {
+        public AdsController(IOnlineShopData data, IUserIdProvider userIdProvider) : base(data, userIdProvider)
+        {
+        }
+
+        public AdsController() : base()
+        { 
+        }
+
         [AllowAnonymous]
         [HttpGet]
         public IHttpActionResult GetAds()
         {
             var ads =
-                this.Data.Ads.Where(a => a.Status == AdStatus.Open)
+                this.Data.Ads.All().Where(a => a.Status == AdStatus.Open)
                     .OrderByDescending(a => a.Type.Id)
                     .ThenBy(a => a.PostedOn)
                     .Select(
-                        a =>
-                        new
-                            {
-                                AdId = a.Id,
-                                AdName = a.Name,
-                                AdDescription = a.Description,
-                                AdPrice = a.Price,
-                                AdOwnerId = a.OwnerId,
-                                AdOwnerUsername = a.Owner.UserName,
-                                AdType = a.Type.Name,
-                                AdDate = a.PostedOn,
-                                AdCategories = a.Categories.Select(c => new { CatId = c.Id, CatName = c.Name })
-                            });
+                       AdViewModel.Create);
 
             return this.Ok(ads);
         }
@@ -46,7 +44,7 @@ namespace OnlineShop.Services.Controllers
         [HttpPost]
         public IHttpActionResult CreateAd(CreateAdBindingModel model)
         {
-            var userId = this.User.Identity.GetUserId();
+            var userId = this.UserIdProvider.GetUserId();
             //if (userId == null)
             //{
             //    return this.Unauthorized();
@@ -57,7 +55,7 @@ namespace OnlineShop.Services.Controllers
                 return this.BadRequest(this.ModelState);
             }
 
-            if (!this.Data.AdTypes.Any(at => at.Id == model.TypeId))
+            if (!this.Data.AdTypes.All().Any(at => at.Id == model.TypeId))
             {
                 return this.BadRequest("Invalid AdTypes");
             }
@@ -88,7 +86,7 @@ namespace OnlineShop.Services.Controllers
             this.Data.Ads.Add(ad);
             this.Data.SaveChanges();
 
-            var result = this.Data.Ads.Where(a => a.Id == ad.Id).Select(AdViewModel.Create).FirstOrDefault();
+            var result = this.Data.Ads.All().Where(a => a.Id == ad.Id).Select(AdViewModel.Create).FirstOrDefault();
 
             return this.Ok(result);
         }
@@ -104,7 +102,7 @@ namespace OnlineShop.Services.Controllers
                 return this.BadRequest("There isn't an ad with such id.");
             }
 
-            var userId = this.User.Identity.GetUserId();
+            var userId = this.UserIdProvider.GetUserId();
 
             if (ad.OwnerId != userId)
             {

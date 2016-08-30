@@ -12,3 +12,17 @@ D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2.
 D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\obj\Debug\OnlineShop.Models.dll
 D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\obj\Debug\OnlineShop.Models.pdb
 D:\Development\Web Services And Cloud\2. ASP.NET-Web-API-Online-Shop-Skeleton\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\obj\Debug\OnlineShop.Models.csprojResolveAssemblyReference.cache
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\OnlineShop.Models.dll.config
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\OnlineShop.Models.dll
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\OnlineShop.Models.pdb
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\EntityFramework.dll
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\EntityFramework.xml
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\obj\Debug\OnlineShop.Models.csprojResolveAssemblyReference.cache
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\obj\Debug\OnlineShop.Models.dll
+G:\WebServicesAndCloudHomeworks\2. ASP.NET-Web-API-Online-Shop-Lab\OnlineShop.Models\obj\Debug\OnlineShop.Models.pdb

@@ -1,0 +1,14 @@
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\News.Models.dll
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\News.Models.pdb
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\obj\Debug\News.Models.csprojResolveAssemblyReference.cache
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\obj\Debug\News.Models.dll
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\obj\Debug\News.Models.pdb
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\News.Models.dll.config
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\EntityFramework.dll
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\EntityFramework.xml
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\WebServicesAndCloudHomeworks\TestingWebServicesHomework\News.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
